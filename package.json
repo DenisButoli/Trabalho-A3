@@ -1,0 +1,17 @@
+{
+  "name": "projetositepizzaria-main",
+  "version": "1.0.0",
+  "description": "Projeto de site para pizzaria",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "openai": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
